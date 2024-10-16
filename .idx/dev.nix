@@ -19,6 +19,15 @@
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
       # "vscodevim.vim"
+      "akamud.vscode-theme-onedark"
+      "bradlc.vscode-tailwindcss"
+      "dbaeumer.vscode-eslint"
+      "esbenp.prettier-vscode"
+      "formulahendry.auto-close-tag"
+      "formulahendry.auto-rename-tag"
+      "PKief.material-icon-theme"
+      "Tomi.xasnippets"
+      "usernamehw.errorlens"
     ];
 
     # Enable previews
